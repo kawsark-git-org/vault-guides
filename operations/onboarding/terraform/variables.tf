@@ -4,6 +4,9 @@ variable "entities" {
     default = [
         "nginx",
         "app100",
+        "app200",
+        "app300",
+        "app400"
     ]
 }
 
