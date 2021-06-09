@@ -5,8 +5,7 @@ variable "entities" {
         "nginx",
         "app100",
         "app200",
-        "app300",
-        "app400"
+        "app300"
     ]
 }
 
