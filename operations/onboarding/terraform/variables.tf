@@ -3,7 +3,8 @@ variable "entities" {
     # Keep nginx as the first vault client for docker-compose demo using AppRole. Please append additional apps to the list
     default = [
         "nginx",
-        "app100"
+        "app100",
+        "app200"
     ]
 }
 
